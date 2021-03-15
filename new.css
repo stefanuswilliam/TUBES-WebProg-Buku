@@ -1,0 +1,54 @@
+<style>
+		.drop{
+			overflow : hidden;
+			background-color: gold;
+			border: 2px solid black;
+		}
+		.drop a{
+			color : white;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			font-size: 17px;
+			float: left;
+		}
+		
+		.drop a:hover{
+			background-color: black;
+		}
+		.drop a:active{
+			background-color: black;
+		}
+		
+		.kanan{
+			float:right;
+		}
+		.ganti{
+			height: 25px;
+			width: 25x;
+			float: right;
+		}
+		footer{
+			margin : 0;
+			padding: 10px;
+			display : block;
+			background-color: gold;
+			text-align: center;
+			border-top: 2px solid black;  
+		}
+		footer text{
+			color: white;
+		}
+		.bawah{
+			padding: 0px;
+			margin: 0px;
+			background-color: goldenrod;
+		}
+		.bawah a{
+			color: white;
+			text-decoration: none;
+			margin: 5px;
+		}
+	
+
+	</style>

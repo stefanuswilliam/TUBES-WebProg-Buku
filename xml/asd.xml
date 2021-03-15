@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="writer.css"?> 
+<writers>
+	<person>
+		<name> Cintya </name>
+		<age> 18 </age>
+		<email> kristiantocintya@gmail.com </email>
+		<contact> 081284561786 </contact>
+	</person>
+	<person>
+		<name> Ferani </name>
+		<age> 18 </age>
+		<email> christy.ferani@gmail.com </email>
+		<contact> 082130055939 </contact>
+	</person>
+	<person>
+		<name> Ryuga </name>
+		<age> 18 </age>
+		<email> ryugasetiawan19@gmail.com </email>
+		<contact> 085921520463 </contact>
+	</person>
+	<person>
+		<name> Felix </name>
+		<age> 18 </age>
+		<email> snifel.felix@gmail.com </email>
+		<contact> 0812345678910 </contact>
+	</person>
+</writers>

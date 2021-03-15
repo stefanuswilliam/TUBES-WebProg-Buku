@@ -1,0 +1,15 @@
+writers {
+	background: lightgrey;
+}
+name{
+	border: 1px solid black;
+	background: green;
+	color: white;
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+}
+age, email , contact{
+	display: block;
+	text-align: center;
+}
